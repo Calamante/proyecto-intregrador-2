@@ -38,6 +38,11 @@ estructura del proyecto:
                         carrito.html
                         README.md
                         
+instalacion y uso:
+                  -clonar el repositorio: git clone https://github.com/Calamante/proyecto-intregrador-2
+                  -abrir el proyecto: navega a la carpeta del proyecto
+                  -ejecutar en un servidor local: abre el archivo index.html en tu navegador usando una extencion como live server
+
           
 
 
