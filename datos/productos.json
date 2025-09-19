@@ -1,0 +1,243 @@
+[
+    {
+        "id": 1,
+        "nombre": "Camiseta",
+        "descripcion": "Camiseta de algodón 100% con diseño moderno.",
+        "precio": 19.99,
+        "imagen": "./img/remera1.jpg",
+        "categoria":{
+            "id": "remeras",
+            "nombre": "Remeras"
+        },
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "nombre": "Pantalones vaqueros",
+        "descripcion": "Pantalones vaqueros ajustados para un look casual.",
+        "precio": 49.99,
+        "imagen": "./img/pantalon1.jpg",
+        "categoria":{
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        },
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "nombre": "Zapatillas deportivas",
+        "descripcion": "Zapatillas cómodas y ligeras para correr.",
+        "precio": 89.99,
+        "imagen": "./img/calzado1.jpg",
+        "categoria":{
+            "id": "calzado",
+            "nombre": "Calzado"
+        },
+        "stock": 20
+    },
+    {
+        "id": 4,
+        "nombre": "Chaqueta de cuero",
+        "descripcion": "Chaqueta de cuero auténtico para un estilo elegante.",
+        "precio": 129.99,
+        "imagen": "./img/campera1.jpg",
+        "categoria":{
+            "id": "camperas",
+            "nombre": "Camperas"
+        },
+        "stock": 15
+    },
+    {
+        "id": 5,
+        "nombre": "Camiseta",
+        "descripcion": "Camiseta deportiva de secado rápido.",
+        "precio": 24.99,
+        "imagen": "./img/remera2.jpg",
+        "categoria":{
+            "id": "remeras",
+            "nombre": "Remeras"
+        },
+        "stock": 40           
+    },
+    {
+        "id": 6,
+        "nombre": "Pantalones cortos",
+        "descripcion": "Pantalones cortos ligeros para el verano.",
+        "precio": 29.99,
+        "imagen": "./img/pantalon2.jpg",
+        "categoria":{
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        },
+        "stock": 25
+    },
+    {
+        "id": 7,
+        "nombre": "Botas de montaña",
+        "descripcion": "Botas resistentes para senderismo y actividades al aire libre.",
+        "precio": 119.99,
+        "imagen": "./img/calzado2.jpg",
+        "categoria":{
+            "id": "calzado",
+            "nombre": "Calzado"
+        },
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "nombre": "Chaqueta impermeable",
+        "descripcion": "Chaqueta ligera e impermeable para días lluviosos.",
+        "precio": 79.99,
+        "imagen": "./img/campera2.jpg",
+        "categoria":{
+            "id": "camperas",
+            "nombre": "Camperas"
+        },
+        "stock": 18
+    },
+    {
+        "id": 9,
+        "nombre": "Camiseta de manga larga",
+        "descripcion": "Camiseta de manga larga para climas frescos.",
+        "precio": 22.99,
+        "imagen": "./img/remera3.jpg",
+        "categoria":{
+            "id": "remeras",
+            "nombre": "Remeras"
+        },
+        "stock": 35           
+    },
+    {
+        "id": 10,
+        "nombre": "Pantalones de chándal",
+        "descripcion": "Pantalones de chándal cómodos para actividades deportivas.",
+        "precio": 39.99,
+        "imagen": "./img/pantalon3.jpg",
+        "categoria":{
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        },
+        "stock": 28
+    },
+    {
+        "id": 11,
+        "nombre": "Zapatillas casuales",
+        "descripcion": "Zapatillas versátiles para uso diario.",
+        "precio": 59.99,
+        "imagen": "./img/calzado3.jpg",
+        "categoria":{
+            "id": "calzado",
+            "nombre": "Calzado"
+        },
+        "stock": 22
+    },
+    {
+        "id": 12,
+        "nombre": "Chaqueta de invierno",
+        "descripcion": "Chaqueta acolchada para mantener el calor en invierno.",
+        "precio": 149.99,
+        "imagen": "./img/campera3.jpg",
+        "categoria":{
+            "id": "camperas",
+            "nombre": "Camperas"
+        },
+        "stock": 12
+    },
+    {
+        "id": 13,
+        "nombre": "Camiseta sin mangas",
+        "descripcion": "Camiseta sin mangas para días calurosos.",
+        "precio": 18.99,
+        "imagen": "./img/remera4.jpg",
+        "categoria":{
+            "id": "remeras",
+            "nombre": "Remeras"
+        },
+        "stock": 45           
+    },
+    {
+        "id": 14,
+        "nombre": "Pantalones de vestir",
+        "descripcion": "Pantalones elegantes para ocasiones formales.",
+        "precio": 59.99,
+        "imagen": "./img/pantalon4.jpg",
+        "categoria":{
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        },
+        "stock": 20
+    },
+    {
+        "id": 15,
+        "nombre": "Sandalias",
+        "descripcion": "Sandalias cómodas para el verano.",
+        "precio": 34.99,
+        "imagen": "./img/calzado4.jpg",
+        "categoria":{
+            "id": "calzado",
+            "nombre": "Calzado"
+        },
+        "stock": 30
+    },
+    {
+        "id": 16,
+        "nombre": "Chaqueta de mezclilla",
+        "descripcion": "Chaqueta clásica de mezclilla para un look casual.",
+        "precio": 69.99,
+        "imagen": "./img/campera4.jpg",
+        "categoria":{
+            "id": "camperas",
+            "nombre": "Camperas"
+        },
+        "stock": 17
+    },
+    {
+        "id": 17,
+        "nombre": "Camiseta gráfica",
+        "descripcion": "Camiseta con estampado gráfico único.",
+        "precio": 21.99,
+        "imagen": "./img/remera5.jpg",
+        "categoria":{
+            "id": "remeras",
+            "nombre": "Remeras"
+        },
+        "stock": 38           
+    },
+    {
+        "id": 18,
+        "nombre": "Pantalones cargo",
+        "descripcion": "Pantalones cargo con múltiples bolsillos.",
+        "precio": 54.99,
+        "imagen": "./img/pantalon5.jpg",
+        "categoria":{
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        },
+        "stock": 26
+    },
+    {
+        "id": 19,
+        "nombre": "Zapatillas de baloncesto",
+        "descripcion": "Zapatillas diseñadas para un rendimiento óptimo en la cancha.",
+        "precio": 99.99,
+        "imagen": "./img/calzado5.jpg",
+        "categoria":{
+            "id": "calzado",
+            "nombre": "Calzado"
+        },
+        "stock": 15
+    },
+    {
+        "id": 20,
+        "nombre": "Chaqueta de lana",
+        "descripcion": "Chaqueta cálida y elegante de lana.",
+        "precio": 139.99,
+        "imagen": "./img/campera5.jpg",
+        "categoria":{
+            "id": "camperas",
+            "nombre": "Camperas"
+        },
+        "stock": 14
+    }
+   
+]

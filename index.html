@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calashop</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <aside>
+            <header>
+                <h1 class="logo">Calashop</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-filter-circle"></i>Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="remeras" class="boton-menu boton-categoria"><i class="bi bi-filter-circle"></i>Remeras</button>
+                    </li>
+                    <li>
+                        <button id="pantalones" class="boton-menu boton-categoria"><i class="bi bi-filter-circle"></i>Pantalones</button>
+                    </li>
+                    <li>
+                        <button id="camperas"class="boton-menu boton-categoria"><i class="bi bi-filter-circle"></i>Camperas</button>
+                    </li>
+                    <li>
+                        <button id="calzado" class="boton-menu boton-categoria"><i class="bi bi-filter-circle"></i>Calzados</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito " href="carrito.html">
+                            <i class="bi bi-cart4"></i>Carrito <spam class="numerito">0</spam>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2025 Calamante</p>
+            </footer>
+
+        </aside>
+        <main>
+            <h2 class="titulo-principal">Todos los productos</h2>
+            <div class="contenedor-productos">
+                <!-- carga de productos por js -->                              
+            </div>
+
+        </main>
+        </div>
+    
+    <script src="./js/main.js"></script>
+</body>
+</html>
